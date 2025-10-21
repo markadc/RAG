@@ -43,7 +43,6 @@ pip install elasticsearch elasticsearch-dsl
 pip install pymilvus
 pip install ollama
 pip install rich tqdm
-pip install urllib3
 ```
 
 ### 3. 启动服务
